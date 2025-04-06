@@ -1,0 +1,4 @@
+.idea
+venv
+restful01/db.sqlite3
+restful01/restful01/settings.py
