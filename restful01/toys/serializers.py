@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from models import Toy
+from toys.models import Toy
 
 
 class ToySerializer(serializers.Serializer):
